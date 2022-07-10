@@ -8,7 +8,7 @@
 
 <hr>
 
-## 🧑🏻‍💻 Languages and Tools I have worked on!
+## 📥  Languages and Tools I have worked on!
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,11 +35,13 @@
 
 <hr>
 
+<!-- ## 🧑🏻‍💻 Coding Profiles
+
+<a href="https://leetcode.com/kartikbagri/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+
+<hr> -->
+
 ## 👋🏻 Connect with me!
 <a href="mailto:kartikbagri199@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/kartik-bagri/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/kartik-bagri/"> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
-
-<hr>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikbagri&show_icons=true&locale=en&layout=compact" alt="kartikbagri" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kartikbagri&show_icons=true&locale=en" alt="kartikbagri" />
