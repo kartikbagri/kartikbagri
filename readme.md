@@ -41,7 +41,5 @@
 <a href="https://www.linkedin.com/in/kartik-bagri/"> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
 
 <hr>
-<div style="display:flex; flex-wrap: wrap">
-<img style="flex:1" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikbagri&show_icons=true&locale=en&layout=compact" alt="kartikbagri" />
-<img style="flex:1" src="https://github-readme-stats.vercel.app/api?username=kartikbagri&show_icons=true&locale=en" alt="kartikbagri" />
-</div>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikbagri&show_icons=true&locale=en&layout=compact" alt="kartikbagri" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kartikbagri&show_icons=true&locale=en" alt="kartikbagri" />
