@@ -43,5 +43,5 @@
 <hr>
 <div style="display:flex; flex-wrap: wrap">
 <img style="flex:1" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikbagri&show_icons=true&locale=en&layout=compact" alt="kartikbagri" />
-<img style="flex:0.5" src="https://github-readme-stats.vercel.app/api?username=kartikbagri&show_icons=true&locale=en" alt="kartikbagri" />
+<img style="flex:1" src="https://github-readme-stats.vercel.app/api?username=kartikbagri&show_icons=true&locale=en" alt="kartikbagri" />
 </div>
